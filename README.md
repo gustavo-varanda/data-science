@@ -138,4 +138,4 @@ Projetos desenvolvidos como parte da minha formação acadêmica em Data Science
 
 **Gustavo Enrico Gonzalez Varanda**
 
-[GitHub](https://github.com/gustavo-varanda)
+[GitHub]( https://www.linkedin.com/in/gustavo-enrico-gonzalez-varanda/)
